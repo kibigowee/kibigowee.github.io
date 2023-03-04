@@ -1,0 +1,1 @@
+console.log("OH MY GOD LORD PLS HELP ME AAAAZA");
