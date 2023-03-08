@@ -1,4 +1,4 @@
-console.log("getWeatherData.js has loaded");
+console.log("getWeatherData.js has loaded and updated");
 
 //check if geolocate api exists
 if (navigator.geolocation) {
